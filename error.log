@@ -1,0 +1,12 @@
+{"level":"error","timestamp":"2024-07-09T09:20:54.345Z"}
+{"level":"error","timestamp":"2024-07-09T09:22:31.068Z"}
+{"level":"error","timestamp":"2024-07-09T09:23:14.564Z"}
+{"http_code":400,"level":"error","message":"public_id (uploads\\file-1720518464700-623477311.png) is invalid","name":"Error","timestamp":"2024-07-09T09:47:48.186Z"}
+{"level":"error","message":"Server","timestamp":"2024-07-09T11:58:53.842Z"}
+{"level":"error","message":"Server","timestamp":"2024-07-09T12:01:25.322Z"}
+{"level":"error","message":"Server","timestamp":"2024-07-09T12:02:00.508Z"}
+{"level":"error","message":"Server","timestamp":"2024-07-09T12:03:05.326Z"}
+{"level":"error","message":"Server","timestamp":"2024-07-09T13:56:49.437Z"}
+{"level":"error","message":"Server","timestamp":"2024-07-09T13:58:48.527Z"}
+{"level":"error","message":"Server","timestamp":"2024-07-09T14:29:46.324Z"}
+{"level":"error","message":"Server","timestamp":"2024-07-10T16:28:55.000Z"}

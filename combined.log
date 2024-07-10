@@ -1,0 +1,1478 @@
+{"level":"info","message":"Server","timestamp":"2024-07-08T21:35:59.609Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T21:36:04.791Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T21:38:38.390Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T21:38:38.474Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T21:38:38.490Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T21:38:42.904Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T21:48:02.935Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T21:48:03.001Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T21:48:03.003Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T21:48:07.642Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T21:50:51.736Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T21:50:51.847Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T21:50:51.855Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T21:50:56.227Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T21:54:26.171Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T21:54:26.323Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T21:54:26.331Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T21:54:30.738Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T21:54:55.941Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T21:54:56.181Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T21:54:56.195Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T21:54:59.801Z"}
+{"level":"info","timestamp":"2024-07-08T21:55:06.273Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T21:56:13.642Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T21:56:13.700Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T21:56:13.703Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T21:56:18.330Z"}
+{"level":"info","timestamp":"2024-07-08T21:56:18.500Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:00:02.840Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:00:02.890Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:00:02.896Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:00:07.138Z"}
+{"level":"info","timestamp":"2024-07-08T22:00:16.352Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:01:11.308Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:01:11.365Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:01:11.367Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:01:13.040Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:02:30.088Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:02:30.158Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:02:30.160Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:02:34.100Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:03:34.372Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:03:34.432Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:03:34.434Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:03:36.066Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-08T22:03:39.688Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-08T22:07:08.342Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-08T22:10:00.810Z"}
+{"level":"info","message":"user","timestamp":"2024-07-08T22:10:00.817Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:13:02.799Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:13:02.855Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:13:02.858Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:13:07.281Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-08T22:14:25.836Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-08T22:15:07.046Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:17:00.917Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:17:00.980Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:17:00.983Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:17:05.622Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:18:01.567Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:18:01.684Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:18:01.689Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:18:03.776Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:19:32.046Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:19:32.141Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:19:32.144Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:19:36.448Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:21:34.444Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:21:34.502Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:21:34.505Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:22:15.074Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:22:15.154Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:22:15.162Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:22:16.746Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:25:25.773Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:25:25.898Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:25:25.901Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:25:30.751Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:30:30.631Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:30:30.734Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:30:30.764Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:31:01.259Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:31:01.318Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:31:01.321Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:31:03.322Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:32:10.415Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:32:10.486Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:32:10.492Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:32:14.608Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:34:06.837Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:34:06.904Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:34:06.906Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:34:11.338Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:35:02.409Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:35:02.473Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:35:02.476Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:35:04.199Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:37:06.998Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:37:07.054Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:37:07.057Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:37:11.983Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:37:55.051Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:37:55.112Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:37:55.116Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:37:56.874Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:38:35.110Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:38:35.166Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:38:35.168Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:38:39.515Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:39:36.759Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:39:36.827Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:39:36.832Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:39:38.538Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:40:28.743Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:40:28.812Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:40:28.815Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:40:33.160Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:42:32.838Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:42:32.926Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:42:32.934Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:42:37.352Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:43:06.782Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:43:06.843Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:43:06.846Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:43:08.440Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:45:46.381Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:45:46.443Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:45:46.449Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:45:50.941Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:48:49.800Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:48:49.968Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:48:49.981Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:48:54.567Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:49:29.279Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:49:29.343Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:49:29.346Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:49:30.980Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:53:17.225Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:53:17.284Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:53:17.292Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:53:21.521Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:56:19.334Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:56:19.418Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:56:19.421Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:56:38.834Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T22:56:38.890Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T22:56:38.893Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T22:56:41.413Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T23:02:22.761Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T23:02:22.838Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T23:02:22.844Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T23:02:27.636Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T23:04:56.854Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T23:04:56.944Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T23:04:56.947Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T23:05:01.422Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T23:07:57.996Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T23:07:58.163Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T23:07:58.168Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T23:08:17.802Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T23:08:17.876Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T23:08:17.883Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T23:08:20.277Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T23:08:46.242Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T23:08:46.301Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T23:08:46.304Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T23:08:48.372Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T23:10:53.762Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T23:10:53.822Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T23:10:53.824Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T23:10:59.598Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T23:12:05.958Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-08T23:12:06.042Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-08T23:12:06.044Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-08T23:12:07.763Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-08T23:13:48.707Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T06:52:38.096Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T06:52:38.250Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T06:52:38.252Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T06:52:47.230Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:00:15.780Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T07:00:15.853Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T07:00:15.856Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:00:20.198Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:21:30.936Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T07:21:31.017Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T07:21:31.020Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:21:35.413Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:29:02.619Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T07:29:02.676Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T07:29:02.678Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:29:07.438Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T07:29:23.704Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:30:34.256Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T07:30:34.313Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T07:30:34.316Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:30:38.771Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T07:30:44.925Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:31:43.162Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T07:31:43.218Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T07:31:43.221Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:31:44.941Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T07:31:46.630Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:35:33.782Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T07:35:33.882Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T07:35:33.886Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:35:38.346Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T07:38:28.891Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:39:23.585Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T07:39:23.632Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T07:39:23.635Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T07:39:28.282Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:39:28.835Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:40:18.649Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T07:40:18.704Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T07:40:18.708Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:40:20.479Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T07:40:24.801Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:41:37.387Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T07:41:37.471Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T07:41:37.474Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T07:41:40.085Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:41:42.571Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:42:20.897Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T07:42:20.964Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T07:42:20.967Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:42:22.666Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T07:42:27.463Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:44:14.008Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T07:44:14.099Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T07:44:14.102Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T07:44:18.084Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:44:20.425Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:45:32.458Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T07:45:32.547Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T07:45:32.550Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:45:36.341Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T07:45:42.063Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:46:39.218Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T07:46:39.270Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T07:46:39.273Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:46:41.148Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T07:46:42.908Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:47:32.109Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T07:47:32.189Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T07:47:32.192Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:47:36.836Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:48:17.732Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T07:48:17.796Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T07:48:17.799Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:48:21.619Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T07:48:26.740Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:49:35.017Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T07:49:35.070Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T07:49:35.073Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:49:39.674Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T07:49:39.716Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:50:03.572Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T07:50:03.641Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T07:50:03.644Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T07:50:05.447Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T07:50:07.807Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:30:07.955Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T08:30:08.042Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T08:30:08.046Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:30:12.569Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:31:06.080Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T08:31:06.163Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T08:31:06.166Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:31:07.859Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T08:31:49.043Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T08:31:49.535Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-09T08:31:49.710Z"}
+{"code":"ENOENT","errno":-4058,"level":"info","message":"Error deleting file: ENOENT: no such file or directory, unlink 'C:\\Users\\USER\\Documents\\PAPIC NATION\\TECH\\EXPRESS API\\GuruSysBlogAPI\\src\\controller\\blogs\\uploads\\b10bf3605239c7ff907f1bfb3b8d0ab3'","path":"C:\\Users\\USER\\Documents\\PAPIC NATION\\TECH\\EXPRESS API\\GuruSysBlogAPI\\src\\controller\\blogs\\uploads\\b10bf3605239c7ff907f1bfb3b8d0ab3","stack":"Error: ENOENT: no such file or directory, unlink 'C:\\Users\\USER\\Documents\\PAPIC NATION\\TECH\\EXPRESS API\\GuruSysBlogAPI\\src\\controller\\blogs\\uploads\\b10bf3605239c7ff907f1bfb3b8d0ab3'\n    at async Object.unlink (node:internal/fs/promises:1063:10)","syscall":"unlink","timestamp":"2024-07-09T08:31:49.751Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:33:01.774Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T08:33:01.826Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T08:33:01.830Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T08:33:05.494Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T08:33:05.600Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:33:06.743Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:41:19.534Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T08:41:19.624Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T08:41:19.627Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:41:37.764Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T08:41:37.827Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T08:41:37.831Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:41:40.232Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T08:41:44.611Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:44:41.873Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T08:44:41.964Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T08:44:41.967Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T08:44:47.102Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:44:47.389Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:45:31.090Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T08:45:31.150Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T08:45:31.154Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:45:32.738Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T08:45:35.572Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:46:08.479Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T08:46:08.573Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T08:46:08.577Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T08:46:11.654Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:46:13.625Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:50:15.676Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T08:50:15.732Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T08:50:15.739Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:50:21.704Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:51:31.293Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T08:51:31.375Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T08:51:31.378Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:51:33.553Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:56:24.218Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T08:56:24.293Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T08:56:24.296Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T08:56:28.222Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:56:29.304Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:57:26.512Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T08:57:26.569Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T08:57:26.572Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T08:57:28.196Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T08:58:46.280Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:01:57.405Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T09:01:57.488Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T09:01:57.496Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:02:01.884Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:07:20.755Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T09:07:20.817Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T09:07:20.819Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:07:25.108Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T09:08:13.261Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:09:03.126Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T09:09:03.203Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T09:09:03.206Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:09:07.635Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:10:58.791Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T09:10:58.849Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T09:10:58.853Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:11:03.440Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T09:11:28.997Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:12:15.170Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T09:12:15.250Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T09:12:15.252Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T09:12:18.505Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:12:19.024Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:13:22.462Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T09:13:22.529Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T09:13:22.531Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:13:24.662Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T09:13:25.272Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:15:23.284Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T09:15:23.345Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T09:15:23.347Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T09:15:26.845Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:15:28.121Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:17:05.938Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T09:17:05.996Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T09:17:05.999Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:17:10.944Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T09:17:11.403Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:17:52.698Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T09:17:52.757Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T09:17:52.765Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:17:54.484Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T09:18:03.824Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T09:18:03.925Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:19:15.589Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T09:19:15.650Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T09:19:15.653Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:19:20.177Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:20:46.234Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T09:20:46.291Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T09:20:46.299Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:20:50.736Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T09:20:54.257Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T09:20:54.333Z"}
+{"level":"error","timestamp":"2024-07-09T09:20:54.345Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:21:31.759Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T09:21:31.823Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T09:21:31.826Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:21:33.623Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T09:22:30.859Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T09:22:31.048Z"}
+{"level":"error","timestamp":"2024-07-09T09:22:31.068Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:23:10.675Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T09:23:10.752Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T09:23:10.758Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T09:23:14.209Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T09:23:14.495Z"}
+{"level":"error","timestamp":"2024-07-09T09:23:14.564Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:23:15.745Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:36:42.264Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T09:36:42.347Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T09:36:42.350Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:36:47.192Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T09:36:58.316Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T09:36:58.399Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-09T09:37:02.639Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:47:04.124Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T09:47:04.202Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T09:47:04.205Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:47:33.219Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T09:47:33.286Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T09:47:33.289Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:47:35.615Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T09:47:44.647Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T09:47:44.881Z"}
+{"http_code":400,"level":"error","message":"public_id (uploads\\file-1720518464700-623477311.png) is invalid","name":"Error","timestamp":"2024-07-09T09:47:48.186Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-09T09:47:48.194Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-09T09:47:48.206Z"}
+{"code":"ENOENT","errno":-4058,"level":"info","message":"Error deleting file: ENOENT: no such file or directory, unlink 'C:\\Users\\USER\\Documents\\PAPIC NATION\\TECH\\EXPRESS API\\GuruSysBlogAPI\\src\\controller\\blogs\\uploads\\file-1720518464700-623477311.png'","path":"C:\\Users\\USER\\Documents\\PAPIC NATION\\TECH\\EXPRESS API\\GuruSysBlogAPI\\src\\controller\\blogs\\uploads\\file-1720518464700-623477311.png","stack":"Error: ENOENT: no such file or directory, unlink 'C:\\Users\\USER\\Documents\\PAPIC NATION\\TECH\\EXPRESS API\\GuruSysBlogAPI\\src\\controller\\blogs\\uploads\\file-1720518464700-623477311.png'\n    at async Object.unlink (node:internal/fs/promises:1063:10)","syscall":"unlink","timestamp":"2024-07-09T09:47:48.210Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:49:54.513Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T09:49:54.570Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T09:49:54.572Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:49:59.173Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T09:50:03.394Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T09:50:03.444Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-09T09:50:06.847Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-09T09:50:06.867Z"}
+{"code":"ENOENT","errno":-4058,"level":"info","message":"Error deleting file: ENOENT: no such file or directory, unlink 'C:\\Users\\USER\\Documents\\PAPIC NATION\\TECH\\EXPRESS API\\GuruSysBlogAPI\\src\\controller\\blogs\\uploads\\file-1720518603414-714559696.png'","path":"C:\\Users\\USER\\Documents\\PAPIC NATION\\TECH\\EXPRESS API\\GuruSysBlogAPI\\src\\controller\\blogs\\uploads\\file-1720518603414-714559696.png","stack":"Error: ENOENT: no such file or directory, unlink 'C:\\Users\\USER\\Documents\\PAPIC NATION\\TECH\\EXPRESS API\\GuruSysBlogAPI\\src\\controller\\blogs\\uploads\\file-1720518603414-714559696.png'\n    at async Object.unlink (node:internal/fs/promises:1063:10)","syscall":"unlink","timestamp":"2024-07-09T09:50:06.870Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:51:58.340Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T09:51:58.426Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T09:51:58.428Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:52:02.797Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T09:52:05.266Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T09:52:05.403Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-09T09:52:09.024Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-09T09:52:09.041Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-09T09:52:09.043Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:52:51.322Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T09:52:51.386Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T09:52:51.388Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T09:52:53.113Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:00:54.278Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T10:00:54.383Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T10:00:54.388Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:00:59.146Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T10:01:03.116Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T10:01:03.171Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-09T10:01:06.471Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-09T10:01:06.474Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-09T10:01:06.478Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:04:00.040Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T10:04:00.385Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T10:04:00.457Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:04:05.398Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:06:56.964Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T10:06:57.019Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T10:06:57.021Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:07:01.513Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T10:08:46.673Z"}
+{"level":"info","message":"user","timestamp":"2024-07-09T10:08:46.683Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:10:17.144Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T10:10:17.257Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T10:10:17.263Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T10:10:19.169Z"}
+{"level":"info","message":"user","timestamp":"2024-07-09T10:10:19.193Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:10:22.263Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:18:43.177Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T10:18:43.253Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T10:18:43.258Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:18:47.683Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T10:18:48.957Z"}
+{"level":"info","message":"user","timestamp":"2024-07-09T10:18:48.965Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T10:19:02.255Z"}
+{"level":"info","timestamp":"2024-07-09T10:19:02.295Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:19:43.688Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T10:19:43.774Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T10:19:43.783Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:19:45.568Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T10:20:13.470Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:21:19.094Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T10:21:19.175Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T10:21:19.178Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T10:21:23.278Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:21:24.066Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:21:56.050Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T10:21:56.102Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T10:21:56.106Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:21:57.892Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:22:46.132Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T10:22:46.191Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T10:22:46.194Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:22:50.834Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T10:24:52.616Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:25:21.373Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T10:25:21.490Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T10:25:21.495Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:55:00.881Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T10:55:00.947Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T10:55:00.954Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:55:05.544Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T10:55:55.769Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T10:55:55.873Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-09T10:55:59.228Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-09T10:55:59.233Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-09T10:55:59.236Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:57:15.590Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T10:57:15.647Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T10:57:15.649Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T10:57:20.171Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T10:57:20.297Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:57:20.559Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-09T10:57:23.358Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-09T10:57:23.361Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-09T10:57:23.363Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:58:46.955Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T10:58:47.012Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T10:58:47.014Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T10:58:50.956Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T10:58:51.056Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:58:51.811Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-09T10:58:54.247Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-09T10:58:54.250Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-09T10:58:54.252Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:59:23.343Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T10:59:23.405Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T10:59:23.408Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T10:59:25.052Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T10:59:37.775Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T10:59:37.927Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-09T10:59:41.727Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-09T10:59:41.730Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-09T10:59:41.736Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:04:59.852Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:04:59.953Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:04:59.957Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:05:05.018Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:05:54.749Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:05:54.841Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:05:54.844Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:05:56.584Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:06:19.588Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:06:19.673Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:06:19.681Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:06:24.192Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:07:08.056Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:07:08.165Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:07:08.182Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:08:29.496Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:08:29.632Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:08:29.689Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:09:12.551Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:09:12.619Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:09:12.626Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:09:15.370Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:11:00.844Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:11:00.917Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:11:00.921Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:11:03.160Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:12:38.682Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:12:38.756Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:12:38.759Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:13:05.139Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:13:05.202Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:13:05.206Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:13:08.078Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:15:10.144Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:15:10.242Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:15:10.245Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:15:17.396Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:16:51.986Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:16:52.067Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:16:52.075Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:16:56.425Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:17:29.785Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:17:29.860Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:17:29.863Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:17:31.819Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:18:37.189Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:18:37.277Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:18:37.280Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T11:18:39.563Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:18:41.684Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:21:25.846Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:21:25.923Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:21:25.931Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:21:30.560Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:22:18.558Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:22:18.634Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:22:18.637Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:22:20.479Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:22:41.766Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:22:41.925Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:22:41.930Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:22:43.933Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:23:43.463Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:23:43.543Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:23:43.550Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:25:42.926Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:25:43.013Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:25:43.019Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:25:47.620Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T11:27:02.389Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:28:12.475Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:28:12.532Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:28:12.534Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T11:28:15.477Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:28:17.755Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:30:49.297Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:30:49.461Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:30:49.497Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:31:35.440Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:31:35.540Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:31:35.543Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:31:38.248Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:35:02.486Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:35:02.543Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:35:02.545Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:35:06.858Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:36:46.189Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:36:46.308Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:36:46.310Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:36:51.304Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:41:23.480Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:41:23.559Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:41:23.564Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:41:29.923Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T11:42:06.311Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:47:35.211Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:47:35.276Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:47:35.279Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:47:39.716Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:50:12.408Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:50:12.486Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:50:12.490Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:50:16.907Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:52:05.342Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:52:05.398Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:52:05.401Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:52:09.778Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T11:52:21.000Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:54:52.104Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:54:52.211Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:54:52.214Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:54:57.250Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:56:03.386Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:56:03.467Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:56:03.470Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:56:05.142Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T11:58:53.771Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T11:58:53.809Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T11:58:53.815Z"}
+{"level":"error","message":"Server","timestamp":"2024-07-09T11:58:53.842Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:01:25.244Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:01:25.278Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:01:25.283Z"}
+{"level":"error","message":"Server","timestamp":"2024-07-09T12:01:25.322Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:02:00.368Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:02:00.396Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:02:00.433Z"}
+{"level":"error","message":"Server","timestamp":"2024-07-09T12:02:00.508Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:03:05.242Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:03:05.278Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:03:05.285Z"}
+{"level":"error","message":"Server","timestamp":"2024-07-09T12:03:05.326Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:04:27.730Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:04:27.871Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:04:27.879Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:05:38.023Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:05:38.099Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:05:38.103Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:05:39.758Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:12:05.787Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:12:05.892Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:12:05.895Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:12:10.385Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:13:09.244Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:13:09.305Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:13:09.307Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:13:10.850Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:14:34.176Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:14:34.236Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:14:34.239Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:14:40.517Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:15:38.970Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:15:39.087Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:15:39.094Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:15:40.921Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T12:15:58.022Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T12:16:11.029Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T12:16:17.060Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:18:09.522Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:18:09.573Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:18:09.582Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:18:13.943Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:19:38.019Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:19:38.079Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:19:38.083Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:19:42.694Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:20:45.840Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:20:45.914Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:20:45.917Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:20:47.664Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:22:14.074Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:22:14.157Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:22:14.166Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:22:18.760Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:24:42.802Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:24:42.860Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:24:42.870Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:24:47.531Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:27:27.601Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:27:27.690Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:27:27.693Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:27:32.084Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:29:06.049Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:29:06.109Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:29:06.111Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:29:10.624Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:30:20.530Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:30:20.590Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:30:20.592Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:30:22.336Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:31:07.851Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:31:07.960Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:31:07.965Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:31:13.138Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:38:34.799Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:38:34.871Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:38:34.877Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:38:40.023Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T12:39:57.740Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T12:39:57.838Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-09T12:40:01.673Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-09T12:40:01.676Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-09T12:40:01.682Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:41:28.379Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:41:28.435Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:41:28.438Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:41:33.037Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T12:41:35.440Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T12:41:35.528Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-09T12:41:40.968Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-09T12:41:40.971Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-09T12:41:40.973Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T12:42:32.521Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:45:00.554Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:45:00.630Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:45:00.632Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:45:05.313Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T12:45:17.342Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:47:40.027Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:47:40.106Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:47:40.115Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:47:44.479Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T12:47:47.257Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:48:59.876Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:48:59.995Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:49:00.004Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:49:04.600Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:56:47.349Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T12:56:47.416Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T12:56:47.419Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T12:56:52.035Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:03:56.127Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:03:56.216Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:03:56.220Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:04:01.458Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:05:11.432Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:05:11.486Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:05:11.488Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:07:38.040Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:07:38.114Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:07:38.120Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:07:44.511Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:08:28.024Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:08:28.104Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:08:28.107Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:08:29.854Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:08:53.998Z"}
+{"level":"info","message":"Updating picture file","timestamp":"2024-07-09T13:08:59.111Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T13:08:59.114Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-09T13:09:04.134Z"}
+{"level":"info","message":"Updated successfully","timestamp":"2024-07-09T13:09:04.139Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-09T13:09:04.140Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-09T13:09:04.141Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:12:20.672Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:16:55.944Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:16:56.118Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:16:56.154Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:17:01.787Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:17:01.876Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:19:32.067Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:22:21.482Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:22:21.553Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:22:21.556Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:22:26.147Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:22:51.219Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:23:46.127Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:30:15.245Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:30:15.334Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:30:15.337Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:30:20.169Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:30:20.466Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:31:29.549Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:31:29.647Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:31:29.650Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:31:31.494Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:31:33.774Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:32:32.477Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:32:32.577Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:32:32.583Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:32:36.385Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:32:37.997Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:33:30.043Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:33:30.142Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:33:30.145Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:33:31.951Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:33:33.193Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:34:27.777Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:34:27.847Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:34:27.850Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:34:31.687Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:34:35.738Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:35:42.432Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:35:42.626Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:35:42.633Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:35:46.034Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:36:00.838Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:36:55.021Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:36:55.096Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:36:55.103Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:36:58.807Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:37:02.142Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:38:02.292Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:38:02.442Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:38:02.446Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:38:04.492Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:38:06.585Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:40:07.505Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:40:07.577Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:40:07.583Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:40:12.173Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:40:13.169Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:42:00.869Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:42:00.988Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:42:00.992Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:42:04.528Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:42:05.695Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:42:49.585Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:42:49.668Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:42:49.676Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:42:51.650Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:42:55.175Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:43:26.387Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:43:26.463Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:43:26.467Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:43:29.047Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:43:31.493Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:44:45.713Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:44:45.792Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:44:45.795Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:44:50.473Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:44:50.528Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:46:33.789Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:46:33.954Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:46:33.958Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:46:38.843Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:47:44.819Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:47:44.924Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:47:44.927Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:47:46.918Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:49:39.802Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:49:51.001Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T13:51:43.967Z"}
+{"level":"info","message":"Deleting ...","timestamp":"2024-07-09T13:51:44.141Z"}
+{"level":"info","message":"Deleted successfully...","timestamp":"2024-07-09T13:51:44.315Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:56:49.286Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:56:49.374Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:56:49.379Z"}
+{"level":"error","message":"Server","timestamp":"2024-07-09T13:56:49.437Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T13:58:25.208Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T13:58:25.301Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T13:58:25.307Z"}
+{"level":"error","message":"Server","timestamp":"2024-07-09T13:58:48.527Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:03:34.617Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T14:03:34.687Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T14:03:34.690Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:03:39.346Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:03:39.920Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T14:03:40.046Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-09T14:03:43.382Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-09T14:03:43.388Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-09T14:03:43.392Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:07:01.372Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:09:09.637Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T14:09:09.657Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-09T14:09:11.875Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-09T14:09:11.878Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-09T14:09:11.880Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:13:03.195Z"}
+{"level":"info","message":"Updating picture file","timestamp":"2024-07-09T14:13:03.527Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T14:13:03.529Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-09T14:13:05.682Z"}
+{"level":"info","message":"Updated successfully","timestamp":"2024-07-09T14:13:05.689Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-09T14:13:05.690Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-09T14:13:05.694Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:13:31.955Z"}
+{"level":"info","message":"Updating picture file","timestamp":"2024-07-09T14:13:32.248Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T14:13:32.249Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-09T14:13:34.059Z"}
+{"level":"info","message":"Updated successfully","timestamp":"2024-07-09T14:13:34.065Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-09T14:13:34.066Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-09T14:13:34.068Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:17:30.637Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T14:17:30.711Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T14:17:30.714Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:17:35.275Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:17:54.238Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:19:04.099Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:20:11.079Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T14:20:11.168Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T14:20:11.173Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:20:15.504Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:20:28.154Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:23:27.008Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T14:23:27.086Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T14:23:27.088Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:23:31.659Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:23:32.735Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:24:57.662Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T14:24:57.778Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T14:24:57.783Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:25:01.822Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:25:02.731Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:25:52.535Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T14:25:52.679Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T14:25:52.724Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:25:54.956Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:26:02.194Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:26:48.829Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T14:26:48.954Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T14:26:48.959Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:26:53.918Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:26:58.576Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:27:47.532Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T14:27:47.648Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T14:27:47.650Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:27:50.325Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:27:56.416Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:28:48.163Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T14:28:48.225Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T14:28:48.228Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:28:53.693Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:29:46.182Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T14:29:46.249Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T14:29:46.252Z"}
+{"level":"error","message":"Server","timestamp":"2024-07-09T14:29:46.324Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:32:30.850Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T14:32:31.213Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T14:32:31.216Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:32:36.061Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:32:52.311Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T14:32:52.399Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-09T14:32:54.562Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-09T14:32:54.565Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-09T14:32:54.593Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:35:47.143Z"}
+{"level":"info","message":"Updating picture file","timestamp":"2024-07-09T14:35:47.527Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T14:35:47.529Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-09T14:35:49.908Z"}
+{"level":"info","message":"Updated successfully","timestamp":"2024-07-09T14:35:49.911Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-09T14:35:49.912Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-09T14:35:49.915Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:37:13.519Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:37:54.458Z"}
+{"level":"info","message":"Deleting ...","timestamp":"2024-07-09T14:37:56.995Z"}
+{"level":"info","message":"Deleted successfully...","timestamp":"2024-07-09T14:37:57.155Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:39:10.203Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T14:39:10.218Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-09T14:39:12.524Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-09T14:39:12.532Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-09T14:39:12.535Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:41:04.203Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T14:41:04.312Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T14:41:04.316Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:44:28.568Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T14:44:28.752Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T14:44:28.782Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:44:33.403Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:50:41.223Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T14:50:41.296Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T14:50:41.299Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:50:44.378Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:51:40.396Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:52:33.531Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:53:14.389Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:54:30.453Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:55:12.738Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T14:55:41.616Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:58:44.518Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T14:58:44.663Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T14:58:44.667Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T14:58:50.064Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T15:00:01.395Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T15:01:43.618Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T15:02:19.333Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-09T15:02:19.429Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-09T15:02:21.801Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-09T15:02:21.809Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-09T15:02:21.814Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T15:03:24.358Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:05:00.309Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T15:05:00.416Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T15:05:00.420Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:05:04.941Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:06:32.585Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T15:06:32.686Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T15:06:32.689Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:06:37.340Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T15:07:17.979Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T15:09:16.862Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:11:15.856Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T15:11:15.936Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T15:11:15.940Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T15:11:20.568Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:11:20.786Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T15:12:20.407Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:13:07.169Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T15:13:07.250Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T15:13:07.260Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:13:11.793Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:13:44.379Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T15:13:44.457Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T15:13:44.462Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:13:46.223Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T15:15:11.512Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:15:48.933Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T15:15:49.030Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T15:15:49.033Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:15:53.589Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:19:53.100Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T15:19:53.198Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T15:19:53.202Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:19:57.763Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T15:21:28.163Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:22:19.464Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T15:22:19.543Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T15:22:19.547Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:22:23.871Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T15:22:28.567Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:28:02.054Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T15:28:02.131Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T15:28:02.134Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:28:06.849Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T15:28:06.970Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:28:48.634Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T15:28:48.741Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T15:28:48.746Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:28:50.509Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-09T15:28:51.677Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-09T15:31:25.433Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-09T15:31:25.601Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-09T15:31:25.612Z"}
+{"level":"error","message":"Server","timestamp":"2024-07-10T16:28:55.000Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:44:53.217Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T16:44:53.276Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T16:44:53.280Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:44:58.350Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:46:25.626Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T16:46:25.667Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T16:46:25.668Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T16:46:30.160Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:46:30.859Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T16:47:01.394Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:47:47.859Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T16:47:47.911Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T16:47:47.916Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:47:52.115Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T16:48:06.784Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:50:10.209Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T16:50:10.289Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T16:50:10.293Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:50:14.467Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T16:51:35.007Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:52:14.701Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T16:52:14.751Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T16:52:14.752Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:52:19.961Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:52:47.910Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T16:52:47.963Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T16:52:47.966Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T16:52:57.210Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:52:59.009Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:54:14.082Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T16:54:14.124Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T16:54:14.128Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:54:18.348Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:54:55.642Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T16:54:55.713Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T16:54:55.717Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:54:57.396Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T16:55:20.042Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:55:47.928Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T16:55:47.996Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T16:55:47.999Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:55:52.254Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:56:27.957Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T16:56:28.002Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T16:56:28.006Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:56:29.847Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:57:20.828Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T16:57:20.947Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T16:57:20.952Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T16:57:25.390Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T16:58:10.916Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T16:59:30.184Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-10T16:59:30.631Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-10T16:59:33.595Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-10T16:59:33.602Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-10T16:59:33.604Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:03:02.244Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:03:02.302Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:03:02.305Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T17:03:07.763Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:03:10.778Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-10T17:03:11.149Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-10T17:03:13.205Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-10T17:03:13.212Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:06:37.540Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:06:37.585Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:06:37.589Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:06:41.678Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:08:27.021Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:08:27.080Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:08:27.085Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T17:08:30.249Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:08:31.489Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-10T17:08:31.842Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-10T17:08:33.666Z"}
+{"level":"info","message":"Updated successfully","timestamp":"2024-07-10T17:08:33.677Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-10T17:08:33.678Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-10T17:08:33.701Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T17:09:12.928Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-10T17:09:12.942Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-10T17:09:14.593Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-10T17:09:14.594Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-10T17:09:14.595Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T17:09:26.436Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T17:10:25.758Z"}
+{"level":"info","message":"Deleting ...","timestamp":"2024-07-10T17:10:25.762Z"}
+{"level":"info","message":"Deleted successfully...","timestamp":"2024-07-10T17:10:26.092Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T17:10:35.020Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:14:46.373Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:14:46.460Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:14:46.464Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:16:20.783Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:16:20.907Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:16:20.921Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:16:25.317Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:16:50.955Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:16:51.106Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:16:51.124Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:16:54.131Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:17:27.445Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:17:27.499Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:17:27.504Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:17:29.334Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:18:20.271Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:18:20.349Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:18:20.355Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:18:24.734Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:20:08.942Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:20:09.007Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:20:09.009Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:20:13.290Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:20:34.767Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:20:34.818Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:20:34.820Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:20:36.783Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:21:04.997Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:21:05.212Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:21:05.386Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:21:08.179Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:22:40.730Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:22:40.780Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:22:40.782Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:22:47.261Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:35:01.942Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:35:02.020Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:35:02.023Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:35:06.555Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:35:51.389Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:35:51.450Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:35:51.454Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:35:53.394Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:38:03.492Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:38:03.565Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:38:03.568Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:38:07.851Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:38:48.157Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:38:48.222Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:38:48.225Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:38:52.161Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T17:38:53.205Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T17:39:09.966Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T17:39:42.672Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T17:40:27.388Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:44:30.500Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:44:30.553Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:44:30.555Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:44:34.741Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T17:46:39.083Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:49:52.344Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:49:52.406Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:49:52.411Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:49:56.575Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:50:32.556Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:50:32.611Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:50:32.617Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:50:34.416Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:51:36.196Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:51:36.265Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:51:36.268Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:51:40.118Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:52:31.583Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:52:31.647Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:52:31.650Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:52:33.497Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:59:05.070Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T17:59:05.127Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T17:59:05.131Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T17:59:09.360Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T18:04:17.905Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T18:04:43.351Z"}
+{"level":"info","message":"Uploading file...","timestamp":"2024-07-10T18:04:43.399Z"}
+{"level":"info","message":"Uploaded file successfully...","timestamp":"2024-07-10T18:04:47.346Z"}
+{"level":"info","message":"Deleting file from directory...","timestamp":"2024-07-10T18:04:47.348Z"}
+{"level":"info","message":"File deleted from directory succesfully","timestamp":"2024-07-10T18:04:47.349Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T18:05:30.109Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:06:13.401Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:06:13.463Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:06:13.465Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:06:17.321Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T18:07:43.687Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T18:07:56.201Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T18:08:07.137Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:09:36.825Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:09:36.917Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:09:36.920Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T18:09:40.797Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:09:41.297Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:11:14.872Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:11:14.924Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:11:14.927Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:11:19.328Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:12:32.698Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:12:32.781Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:12:32.784Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:12:37.063Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:13:23.002Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:13:23.053Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:13:23.056Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:13:24.744Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:15:08.390Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:15:08.446Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:15:08.449Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:15:12.541Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:16:01.001Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:16:01.060Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:16:01.062Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:16:02.839Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:16:53.019Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:16:53.086Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:16:53.089Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:16:57.525Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:17:56.822Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:17:56.878Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:17:56.881Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:17:58.647Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:18:42.417Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:18:42.500Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:18:42.503Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:18:46.913Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:34:03.089Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:34:03.186Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:34:03.189Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:34:07.393Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:34:52.406Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:34:52.503Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:34:52.506Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:34:56.339Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:36:03.244Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:36:03.341Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:36:03.344Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:36:07.801Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:37:52.606Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:37:52.707Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:37:52.712Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:37:57.220Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:38:52.389Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:38:52.459Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:38:52.462Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:38:55.790Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:39:31.815Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:39:31.916Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:39:31.921Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:39:36.256Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:41:50.499Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:41:50.577Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:41:50.580Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:41:55.203Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:43:42.341Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:43:42.457Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:43:42.465Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:43:46.996Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:48:04.375Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:48:04.837Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:48:04.943Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:48:09.193Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:49:14.732Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:49:14.831Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:49:14.835Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:49:16.954Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:51:58.939Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:51:59.021Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:51:59.023Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:52:03.470Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:52:44.548Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:52:44.695Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:52:44.698Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:52:46.685Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T18:54:07.410Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T18:54:24.749Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:55:38.499Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T18:55:38.573Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T18:55:38.578Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T18:55:42.856Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:00:33.884Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:00:33.989Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:00:33.993Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:00:39.088Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:02:23.606Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:02:23.690Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:02:23.695Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:02:28.283Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:03:53.097Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:03:53.207Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:03:53.210Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:03:57.779Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:04:36.843Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:04:37.028Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:04:37.031Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:04:38.937Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:07:07.435Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:07:07.543Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:07:07.548Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:07:11.582Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:08:04.889Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:08:05.068Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:08:05.071Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:08:07.861Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:10:21.305Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:10:21.425Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:10:21.430Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:10:26.077Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:11:32.275Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:11:32.341Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:11:32.345Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:11:34.388Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:13:05.871Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:13:05.965Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:13:05.975Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:13:10.304Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:14:10.005Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:14:10.122Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:14:10.128Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:14:12.309Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T19:14:26.543Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T19:19:47.468Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T19:20:58.987Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:21:54.465Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:21:54.562Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:21:54.565Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:22:01.094Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T19:22:09.219Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:23:20.349Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:23:20.462Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:23:20.464Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:23:24.736Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:25:20.856Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:25:20.948Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:25:20.952Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:25:25.689Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T19:25:33.971Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:26:10.969Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:26:11.038Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:26:11.041Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:26:13.316Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:27:12.233Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:27:12.334Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:27:12.338Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:27:16.628Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T19:27:52.969Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:28:24.930Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:28:25.011Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:28:25.014Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:28:26.835Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:33:18.201Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:33:18.319Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:33:18.324Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:33:22.731Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T19:35:11.118Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T19:38:25.934Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:45:19.742Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:45:19.816Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:45:19.819Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:45:25.831Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:50:45.492Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:50:45.564Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:50:45.567Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:50:49.857Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:55:02.161Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:55:02.225Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:55:02.231Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:55:06.615Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:56:11.961Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:56:12.026Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:56:12.032Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:56:14.049Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:57:49.166Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T19:57:49.245Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T19:57:49.247Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T19:57:54.441Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T19:58:00.620Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:00:04.293Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T20:00:04.492Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T20:00:04.546Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:00:38.898Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T20:00:39.152Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T20:00:39.170Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:00:42.276Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:06:16.879Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T20:06:16.977Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T20:06:16.981Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:06:21.336Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T20:06:21.815Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:08:22.576Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T20:08:22.667Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T20:08:22.670Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:08:27.664Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:09:17.166Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T20:09:17.233Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T20:09:17.239Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:09:19.013Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T20:09:25.883Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:10:05.952Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T20:10:06.027Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T20:10:06.030Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:10:10.330Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:12:32.727Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T20:12:32.924Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T20:12:32.928Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:12:37.871Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:13:55.542Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T20:13:55.612Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T20:13:55.615Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:14:00.346Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T20:15:50.374Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T20:16:34.768Z"}
+{"level":"info","message":"Incorrect Password","timestamp":"2024-07-10T20:16:57.658Z"}
+{"level":"info","message":"Incorrect Password","timestamp":"2024-07-10T20:17:11.400Z"}
+{"level":"info","message":"Incorrect Password","timestamp":"2024-07-10T20:18:11.633Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T20:18:44.435Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:22:45.287Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T20:22:45.365Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T20:22:45.369Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:22:51.133Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T20:24:01.754Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:25:41.328Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T20:25:41.474Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T20:25:41.478Z"}
+{"level":"info","message":"Auth","timestamp":"2024-07-10T20:25:45.021Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:25:47.135Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:27:12.379Z"}
+{"level":"info","message":"Setting Middlewares","timestamp":"2024-07-10T20:27:12.466Z"}
+{"level":"info","message":"Middlewares set successfully","timestamp":"2024-07-10T20:27:12.468Z"}
+{"level":"info","message":"Server","timestamp":"2024-07-10T20:27:18.286Z"}
