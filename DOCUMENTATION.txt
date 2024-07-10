@@ -1,0 +1,138 @@
+This document outlines the routes and corresponding functionalities for the given Express.js application. Each route is defined with its HTTP method, endpoint, middleware, and controller action.
+
++++++++++++ Authentication Routes ++++++++++++++
+Validate Token
+Method: GET
+Endpoint: /auth/validate
+Middleware: extractJWT
+Controller: authentication_controller.validateToken
+Description: Validates the provided JWT token.
+Login
+Method: POST
+Endpoint: /auth/login
+Controller: authentication_controller.login
+Description: Authenticates a user and provides a JWT token.
+
+
+
+
+++++++++++++ User Routes +++++++++++++++++++
+Register User
+
+Method: POST
+Endpoint: /user/register
+Controller: registerUser
+Description: Registers a new user.
+
+
+Get User by ID
+
+Method: GET
+Endpoint: /user/:id
+Middleware: extractJWT
+Controller: userGetById
+Description: Retrieves user information by user ID.
+
+
+Update Password
+
+Method: PUT
+Endpoint: /user/update
+Middleware: extractJWT
+Controller: updatePassword
+Description: Updates the password for the authenticated user.
+
+
+Delete User
+
+Method: DELETE
+Endpoint: /user/delete
+Middleware: extractJWT
+Controller: deleteUser
+Description: Deletes the authenticated user's account.
+
+
+
++++++++++++ Blog Routes +++++++++++++++
+
+Add Blog
+Method: POST
+Endpoint: /blog/add
+Middleware: extractJWT, upload.single('file')
+Controller: addBlog
+Description: Adds a new blog post with an optional file upload.
+
+
+Get Blogs by User
+
+Method: GET
+Endpoint: /blog/get-by-user
+Middleware: extractJWT
+Controller: getBlogByUser
+Description: Retrieves all blog posts by the authenticated user.
+
+
+Get All Blogs by User
+
+Method: GET
+Endpoint: /blog/get-by-user-all
+Middleware: extractJWT
+Controller: getBlogByUserAll
+Description: Retrieves all blogs by the authenticated user, including additional information.
+
+
+Get Blog by ID
+
+Method: GET
+Endpoint: /blog/get-by-id/:blogId
+Middleware: extractJWT
+Controller: getBlogById
+Description: Retrieves a specific blog post by its ID.
+
+
+Get All Blogs
+
+Method: GET
+Endpoint: /blog/get-by-all
+Controller: getBlogByAll
+Description: Retrieves all blog posts.
+
+
+Update Blog by ID
+
+Method: PUT
+Endpoint: /blog/update-by-id/:blogId
+Middleware: extractJWT, upload.single('file')
+Controller: updateBlogById
+Description: Updates a specific blog post by its ID, with an optional file upload.
+
+
+Delete Blog by ID
+
+Method: DELETE
+Endpoint: /blog/delete-by-id/:blogId
+Middleware: extractJWT
+Controller: deleteBlogById
+Description: Deletes a specific blog post by its ID.
+
+
+
++++++++++++++++++ Middleware Descriptions ++++++++++++++++++++
+extractJWT: Middleware to extract and verify JWT from the request headers.
+upload.single('file'): Middleware from multer to handle single file uploads.
+
+
++++++++++++ Controller Descriptions ++++++++++++++++++++++
+authentication_controller.validateToken: Validates JWT tokens.
+authentication_controller.login: Handles user login and JWT token generation.
+registerUser: Registers a new user.
+userGetById: Retrieves user details by user ID.
+updatePassword: Updates the password for the authenticated user.
+deleteUser: Deletes the authenticated user's account.
+addBlog: Adds a new blog post.
+getBlogByUser: Retrieves all blogs by the authenticated user.
+getBlogByUserAll: Retrieves all blogs by the authenticated user with additional information.
+getBlogById: Retrieves a specific blog by its ID.
+getBlogByAll: Retrieves all blogs.
+updateBlogById: Updates a specific blog by its ID.
+deleteBlogById: Deletes a specific blog by its ID.
