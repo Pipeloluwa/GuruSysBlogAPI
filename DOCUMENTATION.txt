@@ -1,5 +1,21 @@
 This document outlines the routes and corresponding functionalities for the given Express.js application. Each route is defined with its HTTP method, endpoint, middleware, and controller action.
 
++++++++++ Tools and Technologies ++++++++++++++++
+Express.js
+Description: A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+
+
+JSON Web Tokens (JWT)
+Purpose: Implement authentication and authorization.
+Description: JWT is used to secure endpoints by providing tokens that must be validated for accessing protected routes.
+
+
+PostgreSQL
+Description: PostgreSQL, a powerful relational database system, is used to store user information, blog posts, and other related data.
+
+
+
+
 +++++++++++ Authentication Routes ++++++++++++++
 Validate Token
 Method: GET
